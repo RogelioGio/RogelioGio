@@ -18,6 +18,15 @@
   <a href="https://github.com/user/repo"><strong>Explore the docs »</strong></a>
 </p>
 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=user/repo&type=Date)](https://star-history.com/#user/repo&Date)
+
+graph TD;
+  A[Client/UI] -->|API Request| B(Rails API);
+  B --> C[(PostgreSQL)];
+  B --> D{Redis Cache};
+
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 <!--
 **RogelioGio/RogelioGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
