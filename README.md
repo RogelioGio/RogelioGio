@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ver-1.0.0-blue">
+</p>
+
 <!--
 **RogelioGio/RogelioGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
