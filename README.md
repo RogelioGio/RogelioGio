@@ -4,6 +4,20 @@
   <img src="https://img.shields.io/badge/ver-1.0.0-blue">
 </p>
 
+<p align="center">
+  <a href="https://your-website.com">
+    <img src="https://path-to-your-logo.png" alt="Logo" width="200" height="200">
+  </a>
+</p>
+
+<h3 align="center">Project Name</h3>
+
+<p align="center">
+  A short, catchy description of what your project actually does.
+  <br />
+  <a href="https://github.com/user/repo"><strong>Explore the docs »</strong></a>
+</p>
+
 <!--
 **RogelioGio/RogelioGio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
