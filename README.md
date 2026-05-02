@@ -12,9 +12,6 @@ Computer Science graduate with a passion for building robust web applications. I
 
 #### 🏗️ TECHNICAL BACKGROUND
 Some of the tools and frameworks that i have work before
-
-<br>
-
 ###### 🎨 Frontend & Design
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="html5" />&nbsp;
@@ -24,9 +21,6 @@ Some of the tools and frameworks that i have work before
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="react" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape" />
 </p>
-
-<br>
-
 ##### ⚙️ Backend & Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40" alt="php" />&nbsp;
