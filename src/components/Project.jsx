@@ -4,9 +4,9 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useLayoutEffect, useRef } from "react";
 import ShapeGrid from "../assets/components/ShapeGrid";
 import DecryptedText from "../assets/components/DecryptedText";
-import ROOM from "../assets/ROOm.png";
-import MBLearn from "../assets/Mblearn.png";
-import Helpdesk from "../assets/ITHelpdesk.png";
+import ROOM from "../assets/room.png";
+import MBLearn from "../assets/mblearn.png";
+import Helpdesk from "../assets/ithelpdesk";
 
 gsap.registerPlugin(ScrollTrigger);
 
