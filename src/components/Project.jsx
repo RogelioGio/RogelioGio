@@ -6,7 +6,7 @@ import ShapeGrid from "../assets/components/ShapeGrid";
 import DecryptedText from "../assets/components/DecryptedText";
 import ROOM from "../assets/room.png";
 import MBLearn from "../assets/mblearn.png";
-import Helpdesk from "../assets/ithelpdesk";
+import Helpdesk from "../assets/ithelpdesk.png";
 
 gsap.registerPlugin(ScrollTrigger);
 
